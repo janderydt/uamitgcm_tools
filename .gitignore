@@ -1,0 +1,9 @@
+# ignore .asv files
+# ignore .asv files
+*.asv
+
+# ignore hidden files
+.*
+
+# except gitignore
+!.gitignore
